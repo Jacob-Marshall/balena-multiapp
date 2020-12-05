@@ -1,0 +1,9 @@
+[submodule "desi-api"]
+	path = desi-api
+	url = https://github.com/Jacob-Marshall/desi-api.git
+[submodule "desi-cloud"]
+	path = desi-cloud
+	url = https://github.com/Jacob-Marshall/desi-cloud.git
+[submodule "wifi-connect"]
+	path = wifi-connect
+	url = https://github.com/balena-io/wifi-connect.git
